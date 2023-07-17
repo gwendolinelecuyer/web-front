@@ -3,7 +3,7 @@
 
 ............
 
-This is the beta version of the Uro-oncogenomics Viewer, which allows scientists to explore single-cell and spatial transcriptomics datasets in the field of urological cancers. Datasets have been gathered and preprocessed homogeneously  so that users can visualize expression data and use multiple criteria to filter, query and to gain insight into single-cell and spatial data.  
+This beta version of the Uro-oncogenomics Viewer (UncoVer) allows scientists to explore single-cell and spatial transcriptomics datasets in the field of urologic cancers. The datasets have been homogeneously  collected and pre-processed to ensure reproducibility. Users can visualize expression data and use multiple criteria to filter, query and gain insight into single-cell and spatial omics data. 
 
 ### Browse and analyse
 
